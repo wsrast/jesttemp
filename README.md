@@ -1,3 +1,10 @@
+# Jest Testing Template
+
+This repo gives a couple of example test files for quickly running tests in a React environment. Enzyme is provided for shallow and mounted rendering.
+
+_____
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
